@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Konten demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/startuphub
+Data file = C:\xampp\htdocs\startuphub/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\startuphub/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = C:\xampp\htdocs\startuphub/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Bilah Sisi : 
+
+Cari - No Title - Widget already exists
+Pos-pos Terbaru - No Title - Widget already exists
+Komentar Terbaru - No Title - Widget already exists
+Arsip - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Kaki Halaman1 : 
+
+Video - No Title - Widget already exists
+
+Kaki Halaman2 : 
+
+Teks - No Title - Widget already exists
+
+Kaki Halaman3 : 
+
+Sydney: Info kontak - Get in touch - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
